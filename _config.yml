@@ -20,21 +20,21 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: NC Banned Books Collection 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Let Freedom Read
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "This collection provides its users with a comprehensive compilation of banned books to peruse and utilize. The main focus is facilitating access to various books which have been banned throughout K-12 education in several US states during recent years. The primary user group which the collection is designed for is K-12 students in school districts that have been heavily affected by the book bannings. However, the collection is also very much intended to be a teachers’ resource for education in the broad range of Diversity Equity Inclusion (DEI) courses that would otherwise be immensely impeded by a lack of affordable access to these reading materials. Furthermore, the collection is meant to raise wider public awareness regarding the wide array of DEI-related books which currently face access barriers brought on by CRT-hysteria and other cultural panic book banning legislation over the past few years. Depending on the state, book bans numbering into hundreds of authors and titles have severely diminished the wealth of DEI curricular and extracurricular public-funded reading students have the Constitutional right to engage with according to the 1st Amendment. This collection will help ensure such book bans do not impede K-12 students’ affordable access to the broad spectrum of books which might interest them, regardless of what legislation is being enacted in their local school district."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Various authors
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata
+metadata: nc-bannedbooks
 
 ##########
 # Site/Organization Branding 
